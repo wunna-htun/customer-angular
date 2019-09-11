@@ -1,0 +1,17 @@
+/* You can add global styles to this file, and also import other style files */
+button{
+    background: #883997;
+    font-size: 1em;
+    padding: 0.5em;
+    color: aliceblue;
+}
+.pad{
+    padding: 2em;
+    margin: 2em;
+
+}
+
+.inPad{
+    margin-top: 1em;
+    margin-bottom: 1em;
+}

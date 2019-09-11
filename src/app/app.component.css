@@ -1,0 +1,15 @@
+.primary{
+    background: #b0bec5;
+}
+nav{
+    background: #90a4ae;
+    padding: 1em;
+   
+    
+}
+a{
+    padding-left: 3em;
+    font-size: 1.5em;
+    color: white;
+    text-decoration: none;
+}
